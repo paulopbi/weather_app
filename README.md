@@ -1,19 +1,19 @@
-<center>
-<h1>Aplicativo de clima React + Tailwind </h1>
-</center>
+<h1 align="center">
+Aplicativo De Clima
+</h1>
 
-<center>
+<p align="center">
 <img src="./src/assets/favicon.webp" alt="Logo do clima">
-</center>
+</p>
 
-<center>
+<p align="center">
  Redes Sociais
-</center>
+</p>
 
-<center>
+<p align="center">
  <a href="">Linkedin</a> -
  <a href="">Github</a>
-</center>
+</p>
 
 <br>
 
@@ -21,9 +21,9 @@ Um aplicativo simples de clima construído em React + Tailwind CSS, que permite 
 
 O design é responsivo e minimalista, nele implemento diversas práticas modernas de desenvolvimento como hooks, funções assíncronas e eslint.
 
-<center>
+<p align="center">
 <img src="./src/assets/demo.gif" alt="Demo Gif">
-</center>
+</p>
 
 ### **Funcionalidades**
 
