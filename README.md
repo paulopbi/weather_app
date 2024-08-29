@@ -11,8 +11,8 @@ Aplicativo De Clima
 </p>
 
 <p align="center">
- <a href="">Linkedin</a> -
- <a href="">Github</a>
+ <a href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> -
+ <a href="https://github.com/paulopbi">Github</a>
 </p>
 
 <br>
