@@ -39,7 +39,7 @@ O design é responsivo e minimalista, nele implemento diversas práticas moderna
 
 - **React:** Biblioteca para construção da interface.
 - **Tailwind CSS:** Framework para estilização rápida e responsiva.
-- **API Externa:** Integração com a API weaterapi (LINK DA API) para obter dados em tempo real.
+- **API Externa:** Integração com a API weaterapi para obter dados em tempo real.
 - **Hooks:** Uso do `useState` e `useEffect` para gerenciar estado e efeitos colaterais.
 - **Helpers:** Prevenção de erros quando o aplicativo carrega e porém não tem os dados completos ainda.
 - **Eslint:** Ferramenta para garantir qualidade e padronização do código.
